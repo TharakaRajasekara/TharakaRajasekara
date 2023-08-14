@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/tharakasewwand8" target="blank"><img src="https://img.shields.io/twitter/follow/@th@arakasewwand8?logo=twitter&style=for-the-badge" alt="@tharakasewwand8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tharakasewwand8" target="blank"><img src="https://img.shields.io/twitter/follow/tharakasewwand8?logo=twitter&style=for-the-badge" alt="@tharakasewwand8" /></a> </p>
 
 - 🔭 I’m currently working on **track back**
 
